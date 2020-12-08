@@ -57,7 +57,7 @@
         'https://github.com/itpp-labs/pos-addons.git',
         'https://github.com/odoomates/odooapps.git',
         ##
-        'https://apps.odoo.com/apps/modules/13.0/sr_print_pos_session',
+        'https://github.com/itgeopanama/sr_print_pos_session.git',
     ],
 
     'docker-images': [
