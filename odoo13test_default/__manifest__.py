@@ -57,7 +57,7 @@
         'https://github.com/itpp-labs/pos-addons.git',
         'https://github.com/odoomates/odooapps.git',
         ##
-        'https://github.com/sistemasdehudson/sr_print_pos_session.git',
+        'https://github.com/sistemasdehudson/sdehposaddons.git',
     ],
 
     'docker-images': [
