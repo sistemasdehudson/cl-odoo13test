@@ -34,6 +34,7 @@
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/sdeh-pos.git',
         'https://github.com/jobiols/odoo-addons.git',
+        'https://github.com/regaby/l10n_ar_fe_qr',
         ## localización
         'https://github.com/ingadhoc/odoo-argentina.git',
         'https://github.com/ingadhoc/odoo-argentina-ce.git',
@@ -58,6 +59,7 @@
         'https://github.com/odoomates/odooapps.git',
         ##
         'https://github.com/sistemasdehudson/sdehposaddons.git',
+        'https://github.com/OCA/project/',
     ],
 
     'docker-images': [
