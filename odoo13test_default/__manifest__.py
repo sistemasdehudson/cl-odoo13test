@@ -30,11 +30,11 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/sistemasdehudson/cl-odoo13test',
+        'https://github.com/sistemasdehudson/cl-odoo13test.git',
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/sdeh-pos.git',
         'https://github.com/jobiols/odoo-addons.git',
-        'https://github.com/regaby/l10n_ar_fe_qr',
+        'https://github.com/regaby/l10n_ar_fe_qr.git',
         ## localización
         'https://github.com/ingadhoc/odoo-argentina.git',
         'https://github.com/ingadhoc/odoo-argentina-ce.git',
@@ -53,13 +53,13 @@
         'https://github.com/OCA/sale-workflow.git',
         'https://github.com/OCA/web.git',
         ##
-        'https://github.com/OCA/contract',
+        'https://github.com/OCA/contract.git',
         'https://github.com/CybroOdoo/CybroAddons.git',
         'https://github.com/itpp-labs/pos-addons.git',
         'https://github.com/odoomates/odooapps.git',
         ##
         'https://github.com/sistemasdehudson/sdehposaddons.git',
-        'https://github.com/OCA/project/',
+        'https://github.com/OCA/project.git',
     ],
 
     'docker-images': [
