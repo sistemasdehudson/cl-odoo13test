@@ -60,6 +60,7 @@
         ##
         'https://github.com/sistemasdehudson/sdehposaddons.git',
         'https://github.com/OCA/project.git',
+        'https://github.com/dhongu/deltatech.git',
     ],
 
     'docker-images': [
