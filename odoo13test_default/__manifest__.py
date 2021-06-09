@@ -34,7 +34,8 @@
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/sdeh-pos.git',
         'https://github.com/jobiols/odoo-addons.git',
-        'https://github.com/regaby/l10n_ar_fe_qr.git',
+        ##'https://github.com/regaby/l10n_ar_fe_qr.git',
+        'https://github.com/sistemasdehudson/l10n_ar_fe_qr.git',
         ## localización
         'https://github.com/ingadhoc/odoo-argentina.git',
         'https://github.com/ingadhoc/odoo-argentina-ce.git',
