@@ -62,6 +62,11 @@
         'https://github.com/sistemasdehudson/sdehposaddons.git',
         'https://github.com/OCA/project.git',
         'https://github.com/dhongu/deltatech.git',
+        ##
+        'https://github.com/OCA/manufacture.git -b 13.0',
+        'https://github.com/OCA/manufacture-reporting.git -b 13.0',
+        ##
+        'https://github.com/OCA/stock-logistics-barcode.git -b 13.0',
     ],
 
     'docker-images': [
