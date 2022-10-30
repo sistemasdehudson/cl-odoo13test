@@ -34,8 +34,8 @@
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/sdeh-pos.git',
         'https://github.com/jobiols/odoo-addons.git',
-        ##'https://github.com/regaby/l10n_ar_fe_qr.git',
-        'https://github.com/sistemasdehudson/l10n_ar_fe_qr.git',
+        ## Modulo QR para pos
+        'https://github.com/regaby/l10n_ar_fe_qr.git ctmil/l10n_ar_fe_qr',
         ## localización
         'https://github.com/ingadhoc/odoo-argentina.git',
         'https://github.com/ingadhoc/odoo-argentina-ce.git',
@@ -75,6 +75,8 @@
         'https://github.com/OCA/queue -b 13.0',
         'https://github.com/OCA/currency -b 13.0',
         'https://github.com/OCA/e-commerce -b 13.0',
+        ##localizacion espana
+        'https://github.com/OCA/l10n-spain.git',
     ],
 
     'docker-images': [
