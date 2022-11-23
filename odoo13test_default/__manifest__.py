@@ -77,6 +77,8 @@
         'https://github.com/OCA/e-commerce -b 13.0',
         ##localizacion espana
         'https://github.com/OCA/l10n-spain.git',
+        ##modulos stock para remito
+        'https://github.com/OCA/stock-logistics-workflow.git -b 13.0',
     ],
 
     'docker-images': [
