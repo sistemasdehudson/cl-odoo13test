@@ -80,7 +80,7 @@
         ##modulos stock para remito
         'https://github.com/OCA/stock-logistics-workflow.git -b 13.0',
         'https://github.com/OCA/project-reporting -b 13.0',
-        'https://github.com/nimarosa/payroll -b 13.0',
+        'https://github.com/OCA/payroll -b 13.0',
     ],
 
     'docker-images': [
